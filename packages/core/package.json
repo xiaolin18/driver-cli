@@ -5,6 +5,9 @@
   "author": "zhaoxiaolin",
   "homepage": "",
   "license": "ISC",
+  "bin": {
+    "driver-cli": "bin/index.js"
+  },
   "main": "lib/index.js",
   "directories": {
     "lib": "lib",

@@ -1,6 +1,6 @@
 {
   "name": "@driver-cli/utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "driver-cli utils",
   "author": "zhaoxiaolin <xiaolin9915@gmail.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "node ./__tests__/utils.test.js"
   },
-  "gitHead": "02a2cc161ad09643239808824650eadaaf7d23c5"
+  "gitHead": "d20442a69dddb3622b48c4cb7549ded09a191558"
 }

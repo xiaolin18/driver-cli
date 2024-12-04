@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "@driver-cli/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "89409629e31ce6feffd3841c594959011cfac998"
 }

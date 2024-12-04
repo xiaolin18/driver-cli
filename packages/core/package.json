@@ -1,0 +1,25 @@
+{
+  "name": "@driver-cli/core",
+  "version": "1.0.0",
+  "description": "driver-cli core",
+  "author": "zhaoxiaolin <xiaolin9915@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://r.cnpmjs.org/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "dependencies": {
+    "@driver-cli/utils": "^1.0.0"
+  }
+}

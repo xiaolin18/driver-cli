@@ -17,14 +17,13 @@
   integrity sha512-Ed61U6XJc3CVRfkERJWDz4dJwKe7iLmmJsbOGu9wSloNSFttHV0I8g6UAgb7qnK5ly5bGLPd4oXZlxCdANBOWQ==
 
 "@driver-cli/core@file:/Users/zhaoxiaolin/Documents/star/driver-cli/driver-cli/packages/core":
-  version "1.0.0"
+  version "1.0.7"
   resolved "file:packages/core"
   dependencies:
     "@driver-cli/utils" "^1.0.0"
-    lodash "^4.17.21"
 
-"@driver-cli/utils@^1.0.0", "@driver-cli/utils@file:/Users/zhaoxiaolin/Documents/star/driver-cli/driver-cli/packages/utils":
-  version "1.0.0"
+"@driver-cli/utils@^1.0.7", "@driver-cli/utils@file:/Users/zhaoxiaolin/Documents/star/driver-cli/driver-cli/packages/utils":
+  version "1.0.7"
   resolved "file:packages/utils"
 
 "@emnapi/core@^1.1.0":

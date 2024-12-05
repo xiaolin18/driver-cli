@@ -1,6 +1,6 @@
 {
   "name": "@driver-cli/core",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "driver-cli core",
   "author": "zhaoxiaolin <xiaolin9915@gmail.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@driver-cli/utils": "^1.0.7"
+    "@driver-cli/utils": "^1.0.8"
   },
-  "gitHead": "89af9de3427abd80977af0ccaafd8285970e88a3"
+  "gitHead": "4e1950c01ca367769839751be1e6d64c6326c69e"
 }
